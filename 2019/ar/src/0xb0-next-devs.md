@@ -30,3 +30,6 @@
 [12]: https://www.owasp.org/index.php/OWASP_Proactive_Controls#tab=OWASP_Proactive_Controls_2018
 [13]: https://www.owasp.org/index.php/OWASP_SAMM_Project
 [14]: https://www.owasp.org/index.php/Category:OWASP_Code_Review_Project
+
+</div>
+
